@@ -12,8 +12,8 @@ Just trying my best to get the world a bit better.
 - 🐈 My [Github](https://github.com/ImaKrp).
 
 ##### --- 📌 More Infos @   [My Portfolio](https://imakrp.github.io/Portfolio/).  ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp)
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp) -->
 
 ## Worked With 👨‍💻
 
