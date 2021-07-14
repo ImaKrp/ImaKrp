@@ -11,7 +11,7 @@ Just trying my best to get the world a bit better.
 - 💻 Front-End @ [Agro Simulador](https://github.com/Agro-Simulador).
 - 🐈 My [Github](https://github.com/ImaKrp).
 
-##### --- 📌 More Infos @   [My Portfolio](https://imakrp.github.io/Portfolio/).  ---
+##### --- 📌 More Info @   [My Portfolio](https://imakrp.github.io/Portfolio/).  ---
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp) -->
 
