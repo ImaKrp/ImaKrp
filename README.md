@@ -13,8 +13,7 @@ Just trying my best to get the world a bit better.
 
 ##### --- 📌 More Info @   [My Portfolio](https://imakrp.github.io/Portfolio/).  ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp&layout=compact&langs_count=7&theme=dracula"/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp&layout=compact&langs_count=7&theme=dark"/>
 
 ## Worked With 👨‍💻
 
