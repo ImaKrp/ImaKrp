@@ -8,7 +8,6 @@ Just trying my best to get the world a bit better.
 #### About Me
 
 - 📍 Current living in Santa Catarina, Brazil.
-- 💻 Front-End @ [Agro Simulador](https://github.com/Agro-Simulador).
 - 🐈 My [Github](https://github.com/ImaKrp).
 
 ##### --- 📌 Some projects @   [My Projects](https://github.com/ImaKrp/ImaKrp/blob/main/PROJECTS.md).  ---
