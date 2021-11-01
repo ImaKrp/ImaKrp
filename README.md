@@ -10,7 +10,7 @@ Just trying my best to get the world a bit better.
 - 📍 Current living in Santa Catarina, Brazil.
 - 🐈 My [Github](https://github.com/ImaKrp).
 
-##### --- 📌 Some projects @   [My Projects](https://github.com/ImaKrp/ImaKrp/blob/main/PROJECTS.md).  ---
+ --- 📌 Some projects @   [My Projects](https://github.com/ImaKrp/ImaKrp/blob/main/PROJECTS.md).  ---
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaKrp&layout=compact&langs_count=7&theme=dark"/> -->
 
